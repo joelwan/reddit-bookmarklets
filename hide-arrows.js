@@ -1,0 +1,1 @@
+javascript:void((function()%7Bvar arrowContainers = document.getElementsByClassName('midcol'); for(var i=0;i<arrowContainers.length; i++){arrowContainers[i].style.display="none";}Balert('hi');%7D)());
